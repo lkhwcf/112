@@ -18,12 +18,12 @@
 [2]: http://www.daum.net/ "다음"
 
 ## 2
-![윰](https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiAterVy5zXAhUGopQKHTyKA20QjRwIBw&url=https%3A%2F%2Fsk.pinterest.com%2Fpin%2F557883472566298999%2F&psig=AOvVaw2mfo24RFf7KjvAULIT8Pu8&ust=1509598727136801 "윰")
+![윰](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk-AzEUj7w4BhbOGKpEuGPi0N7IZU4Un0VuUy5-SHqjZWdg4LQ "윰")
 
 ### 3
 ![윰][1]
 
-[1]: https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiAterVy5zXAhUGopQKHTyKA20QjRwIBw&url=https%3A%2F%2Fsk.pinterest.com%2Fpin%2F557883472566298999%2F&psig=AOvVaw2mfo24RFf7KjvAULIT8Pu8&ust=1509598727136801
+[1]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk-AzEUj7w4BhbOGKpEuGPi0N7IZU4Un0VuUy5-SHqjZWdg4LQ
 
 #### 4
 
